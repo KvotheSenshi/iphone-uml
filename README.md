@@ -1,13 +1,15 @@
-## Getting Started
+## Desafio Projeto Iphone-UML da DIO
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Olá, esse foi um pequeno desafio feito para o curso de JAVA DEVELOPER da Dio. 
 
-## Folder Structure
+## O PROJETO
 
-The workspace contains two folders by default, where:
+O Projeto é baseado no iPhone lançado em 2007.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Obs. esse foi um dos meus primeiros projetos usando os comandos do Git, muito o que aprender, qualquer dica é sempre bem-vinda. 
+
+- `src`: Pasta principal do projeto.
+- `lib`: the folder to maintain depend
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
