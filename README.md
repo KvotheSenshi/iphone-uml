@@ -11,6 +11,10 @@ Obs. esse foi um dos meus primeiros projetos usando os comandos do Git, muito o 
 - `src`: Pasta principal do projeto.
 - `lib`: the folder to maintain depend
 
+- UML:
+
+- !(https://photos.google.com/photo/AF1QipPuCP1j3bpmOBUdeeoVLEYdXfpp771MolUO7a-5)
+
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
